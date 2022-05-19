@@ -26,6 +26,7 @@ Fixed button links
 Comments added to HTMl and CSS file 
 
 #Link to deployed website 
+<br>
 https://itsgeebee.github.io/mod1challenge/
 
 # Example of how website should look
