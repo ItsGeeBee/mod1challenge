@@ -27,4 +27,4 @@ Comments added to HTMl and CSS file
 
 # Example of how website should look
 
-<img src="./assests/images/screenshot">
+<img src="assests/images/screenshot">
