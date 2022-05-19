@@ -24,3 +24,7 @@ THEN I find a concise, descriptive title
 Consolidated CSS, corrected HTML heading and img atributes
 Fixed button links
 Comments added to HTMl and CSS file 
+
+# Example of how website should look
+
+<img src="./assests/images/screenshot">
