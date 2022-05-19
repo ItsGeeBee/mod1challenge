@@ -27,4 +27,5 @@ Comments added to HTMl and CSS file
 
 # Example of how website should look
 
-<img src="assests/images/screenshot">
+<img src="assets\images\screenshot.png" width="800px" height="auto">
+
