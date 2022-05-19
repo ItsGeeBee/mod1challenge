@@ -25,7 +25,7 @@ Consolidated CSS, corrected HTML heading and img atributes
 Fixed button links
 Comments added to HTMl and CSS file 
 
-#Link to deployed website 
+# Link to deployed website 
 <br>
 https://itsgeebee.github.io/mod1challenge/
 
