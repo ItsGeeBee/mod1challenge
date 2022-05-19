@@ -24,3 +24,6 @@ THEN I find a concise, descriptive title
 Consolidated CSS, corrected HTML heading and img atributes
 Fixed button links
 Comments added to HTMl and CSS file 
+
+# Image of wesbite
+(https://raw.githubusercontent.com/itsgeebee/mod1challenge/main/.assets/images/screenshot.png)
