@@ -25,6 +25,8 @@ Consolidated CSS, corrected HTML heading and img atributes
 Fixed button links
 Comments added to HTMl and CSS file 
 
+#Link to deployed website - https://itsgeebee.github.io/mod1challenge/
+
 # Example of how website should look
 
 <img src="assets\images\screenshot.png" width="800px" height="auto">
